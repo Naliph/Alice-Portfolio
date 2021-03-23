@@ -1,4 +1,4 @@
-# predicting Molecular Properties
+# Predicting Molecular Properties
 
 This is a guided project using past competition from Kaggle
 * [Kaggle Champs Scalar Coupling](https://www.kaggle.com/c/champs-scalar-coupling/overview)
