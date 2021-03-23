@@ -1,4 +1,6 @@
 theme: jekyll-theme-time-machine
+
 gem "github-pages", group: :jekyll_plugins
 
-title: [A Biochemistry student who loves technical problem solving]
+title: [Alice's Portfolio]
+description: [A Biochemistry student who loves technical problem solving]
