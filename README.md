@@ -4,4 +4,4 @@ I am a B.S. Biochemistry student with an interest in data science. I took some e
 
 1. [Penguins Clustering Analysis](https://github.com/Naliph/DS-Porfolio/tree/hidden/Penguins%20Clustering%20Analysis)
 2. [Twitter Post during COVID Sentiment Analysis ](https://github.com/Naliph/DS-Porfolio/tree/hidden/Tweets%20Sentiment%20Analysis)
-3. Predicting Molecular Properties (guided project on Kaggle)
+3. [Predicting Molecular Properties (guided project on Kaggle)](https://github.com/Naliph/Alice-Portfolio/tree/personal/Predicting%20Molecular%20Properties%20(Kaggle))
