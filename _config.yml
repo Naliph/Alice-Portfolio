@@ -14,7 +14,7 @@ url: http://Naliph.github.io
 baseurl: "http://Naliph.github.io/Alice-Portfolio"
 
 
-permalink: /:title/
+permalink: /Alice-Portfolio/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
