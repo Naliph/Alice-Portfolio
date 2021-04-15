@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+theme: jekyll-theme-time-machine
 
 gem "github-pages", group: :jekyll_plugins
 
